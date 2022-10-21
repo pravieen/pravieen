@@ -9,6 +9,8 @@ I'm Pravieen and I'm a junior pursuing B.Tech in Computer Science & Engineering 
   <img alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img alt="c++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img alt="Flutter" src="https://img.icons8.com/color/48/7950F2/flutter.png"/>
+  <img alt="Dart" src="https://img.icons8.com/color/48/000000/dart.png"/>
+  <img alt="Sql" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
   <span>&nbsp;</span>
  </div>  
 <!--
