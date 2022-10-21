@@ -8,6 +8,7 @@ I'm Pravieen and I'm a junior pursuing B.Tech in Computer Science & Engineering 
   <img alt="python" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img alt="c++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img alt="Flutter" src="https://img.icons8.com/color/48/7950F2/flutter.png"/>
   <span>&nbsp;</span>
  </div>  
 <!--
