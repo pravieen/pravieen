@@ -13,6 +13,10 @@ I'm Pravieen and I'm a junior pursuing B.Tech in Computer Science & Engineering 
   <img alt="Sql" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
   <span>&nbsp;</span>
  </div>  
+## About me
+ 
+ ![pravieen's github stats](https://github-readme-stats.vercel.app/api?username=pravieen&show_icons=true)
+
 <!--
 **pravieen/pravieen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
