@@ -29,5 +29,5 @@ I'm Pravieen and I'm a junior pursuing B.Tech in Computer Science & Engineering 
 - ⚡ Fun fact: I'm a music lover who watches a lot of movies and spends my free time hangout with friends :) 
 ## Reach me
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_._a_s_p_._/)
-[<img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/pravieen)  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](HTTP://www.linkedin.com/in/
-pravieen/)
+[<img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/pravieen)  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](http://www.linkedin.com/in/
+pravieen)
