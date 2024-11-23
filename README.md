@@ -8,6 +8,7 @@ I'm Pravieen, a B.Tech Computer Science student passionate about Data Engineerin
   <img alt="python" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img alt="Sql" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
   <img alt="Numpy" src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img alt="Pandas" src= "https://img.icons8.com/color/48/000000/pandas.png"/>
   <img alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img alt="c++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img alt="Flutter" src="https://img.icons8.com/color/48/7950F2/flutter.png"/>
