@@ -23,9 +23,9 @@ I'm Pravieen, a B.Tech Computer Science student passionate about Data Engineerin
 
 
 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on developing an inovative App and Hackthons
-- 💬 Ask me about App development
+- 🌱 I’m currently learning Data Engineering
+- 👯 I’m looking to collaborate on developing innovative data engineering solutions and participating in hackathons.
+- 💬 Ask me about data engineering and pipelines!
 - 📫 How to reach me: Feel free to shoot me an [email](mailto:ps2919@srmist.edu.in)!
 
 - ⚡ Fun fact: I'm a music lover who watches a lot of movies and spends my free time hangout with friends :) 
